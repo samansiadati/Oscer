@@ -4,17 +4,13 @@ This repository is for Oscer.ai and the purpose of it is Relation Extraction. **
 
 In the ./models/ folder, you can see 4 Python files : 
 
-#### 1- model.py : 
-main class of your model
+**1- model.py**: main class of your model
 
-#### 2- train.py
-script to train the model.
+**2- train.py**: script to train the model.
 
-#### 3- test.py
-script to run model on test set
+**3- test.py**: script to run model on test set
 
-#### 4- pipeline.py
-a pipeline to use your trained model to detect relations
+**4- pipeline.py**: a pipeline to use your trained model to detect relations
 
 -------------------------------------------
 **Happy Coding!**
