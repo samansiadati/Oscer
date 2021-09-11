@@ -16,5 +16,5 @@ script to run model on test set
 #### 4- pipeline.py
 a pipeline to use your trained model to detect relations
 
-
-**Happy Codeing!**
+-------------------------------------------
+**Happy Coding!**
